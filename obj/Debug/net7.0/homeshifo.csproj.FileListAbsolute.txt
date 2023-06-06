@@ -1,0 +1,15 @@
+C:\Users\OsiyoComputers\homeshifo\bin\Debug\net7.0\homeshifo.exe
+C:\Users\OsiyoComputers\homeshifo\bin\Debug\net7.0\homeshifo.deps.json
+C:\Users\OsiyoComputers\homeshifo\bin\Debug\net7.0\homeshifo.runtimeconfig.json
+C:\Users\OsiyoComputers\homeshifo\bin\Debug\net7.0\homeshifo.dll
+C:\Users\OsiyoComputers\homeshifo\bin\Debug\net7.0\homeshifo.pdb
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\homeshifo.csproj.AssemblyReference.cache
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\homeshifo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\homeshifo.AssemblyInfoInputs.cache
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\homeshifo.AssemblyInfo.cs
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\homeshifo.csproj.CoreCompileInputs.cache
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\homeshifo.dll
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\refint\homeshifo.dll
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\homeshifo.pdb
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\homeshifo.genruntimeconfig.cache
+C:\Users\OsiyoComputers\homeshifo\obj\Debug\net7.0\ref\homeshifo.dll
